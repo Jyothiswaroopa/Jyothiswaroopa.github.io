@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Resume | Resume_Markdown</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Resume" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://jyothiswaroopa.github.io/Resume_Markdown/" />
+<meta property="og:url" content="https://jyothiswaroopa.github.io/Resume_Markdown/" />
+<meta property="og:site_name" content="Resume_Markdown" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Resume" />
+<script type="application/ld+json">
+{"headline":"Resume","url":"https://jyothiswaroopa.github.io/Resume_Markdown/","@type":"WebSite","name":"Resume_Markdown","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Resume_Markdown/assets/css/style.css?v=28a0b010dcc13a02f64757443fc231d7728b8482">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://jyothiswaroopa.github.io/Resume_Markdown/">Resume_Markdown</a></h1>
+      
+
+      <h1 id="resume">Resume</h1>
+<h1 id="jyothip">Jyothi.P</h1>
+<h3 id="personal-details">Personal Details</h3>
+<ul>
+  <li>Name     : Jyothi.P</li>
+  <li>Email Id : swaroopa205@gmail.com</li>
+  <li>Phone    : +91 8790066779</li>
+  <li>Address  : Tadepalligudem</li>
+</ul>
+
+<h3 id="educational-details">Educational Details</h3>
+<p><strong>M.Tech</strong></p>
+<ul>
+  <li>College Name: ANITS</li>
+  <li>Branch      : Machine Design</li>
+  <li>percentage  : 8.86</li>
+  <li>Address     : Vizag</li>
+</ul>
+
+<p><strong>B.Tech</strong></p>
+<ul>
+  <li>College Name: S.R.K.R.E.C</li>
+  <li>Branch      : Machanical Engineering</li>
+  <li>percentage  : 7.5</li>
+  <li>Address     : Bhimavaram</li>
+</ul>
+
+<p><strong>Diploma</strong></p>
+<ul>
+  <li>College Name: S.M.V.M.P.C</li>
+  <li>Branch      : Machanical Engineering</li>
+  <li>percentage  : 70</li>
+  <li>Address     : Tanuku</li>
+</ul>
+
+<p><strong>SSC</strong></p>
+<ul>
+  <li>school Name : T.S.M.Z.P.high School</li>
+  <li>Branch      : state Board</li>
+  <li>percentage  : 89</li>
+  <li>Address     : Tadepalligudem.</li>
+</ul>
+
+<h3 id="skills">Skills</h3>
+<ul>
+  <li>python, c/c++, Java Script.</li>
+  <li>solidworks, ansys, cativa, autocad.</li>
+</ul>
+
+<h3 id="goals">Goals</h3>
+<ul>
+  <li>I want to develop new creations and dimenstrate my abilitys to growth of organisation where i am work.</li>
+</ul>
+
+<h3 id="strengths">Strengths</h3>
+<ul>
+  <li>Quick learner</li>
+  <li>positive Thinking</li>
+  <li>invent new things</li>
+  <li>update my self</li>
+</ul>
+
+<h3 id="hobbies">Hobbies</h3>
+<ul>
+  <li>Playing logical games, like chess.</li>
+  <li>Reading Novels.</li>
+  <li>Browsing New inventions.</li>
+</ul>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
